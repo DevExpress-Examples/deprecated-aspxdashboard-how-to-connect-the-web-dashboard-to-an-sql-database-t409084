@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.vb" Inherits="WebDesignerSqlDataSource.Global_asax" Language="vb" %>
