@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/WebDesignerSqlDataSource/Default.aspx) (VB: [Default.aspx.vb](./VB/WebDesignerSqlDataSource/Default.aspx.vb))
+* [Default.aspx](./CS/WebDesignerSqlDataSource/Default.aspx) (VB: [Default.aspx](./VB/WebDesignerSqlDataSource/Default.aspx))
 * [Default.aspx.cs](./CS/WebDesignerSqlDataSource/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebDesignerSqlDataSource/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxDashboard - How to connect the Web Dashboard to an SQL database
